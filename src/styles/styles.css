@@ -55,4 +55,11 @@ body{
     font-size: 1rem;
     font-weight: bold;
     border-radius: 5px;
+    
+}
+
+button:hover{
+    color: aqua;
+    cursor: pointer;
+    background-color: blueviolet;
 }
